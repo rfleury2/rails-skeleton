@@ -4,6 +4,10 @@ This skeleton is provided to facilitate quick creation for rails apps.  The inte
 
 * Rspec
 * Capybara
+
 * Twitter Bootstrap
+* Font Awesome
+
 * Letter Opener
+* Pry
 
