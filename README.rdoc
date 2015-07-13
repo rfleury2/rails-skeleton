@@ -2,6 +2,8 @@
 
 This skeleton is provided to facilitate quick creation for rails apps.  The integrations attached are:
 
+* 12 Factor
+
 * Rspec
 * Capybara
 
